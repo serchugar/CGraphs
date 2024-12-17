@@ -1,4 +1,4 @@
-# QT_Graphs_App
+# CGraphs
 
 This project is intended to be my degree thesis in Software Engineering at Universidad Politécnica de Valencia UPV. 
 
